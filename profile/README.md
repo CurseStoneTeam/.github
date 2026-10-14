@@ -30,8 +30,9 @@ The C core stays plain C, and the game logic lives in C++. That boundary is enfo
 
 | | Role |
 |---|---|
-| **Dr1xyDev** | Founder |
-| **pkz.byt** | Co-founder |
+| **Dr1xyDev** | Founder & Developer |
+| **pkz.byt** | Co-founder & Developer |
+| **mateocollar** | Developer |
 
 ## Repositories
 
